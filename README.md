@@ -7,6 +7,6 @@
   <code><pre>app.get();</pre></code>
 </details>
 
-```
+```javascript
 app.get('/dffdd');
 ```
